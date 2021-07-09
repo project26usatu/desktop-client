@@ -4,5 +4,6 @@
 /output/
 /target/
 /.idea/
+/.obsidian/
 *.iws
 *.iml
